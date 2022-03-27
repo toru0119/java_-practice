@@ -1,5 +1,5 @@
 public class Training07 {
-  public static void main(String[] agre) {
+  public static void main(String[] args) {
     int x = 80;
     if (x >= 60) {
       System.out.println("合格");
