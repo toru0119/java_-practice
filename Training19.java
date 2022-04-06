@@ -6,6 +6,5 @@ public class Training19 {
     System.out.println("数字の入力");
     int a = Integer.parseInt(br.readLine());
     System.out.println(a + "と入力しました");
-    
   }
 }
